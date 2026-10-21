@@ -11,4 +11,4 @@ Formulaire de contact : envoyé via FormSubmit vers rgformations75@gmail.com. Au
 
 À compléter : n° de déclaration d'activité (commentaire `À COMPLÉTER` dans `mentions-legales.html`).
 
-Mise en ligne : GitHub Pages (branche `main`, dossier racine).
+Mise en ligne : GitHub Pages (branche `main`, dossier racine), domaine https://vigieo.fr (fichier `CNAME`).
