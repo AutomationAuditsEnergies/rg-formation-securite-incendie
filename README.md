@@ -9,6 +9,4 @@ Site vitrine statique (HTML/CSS, sans dépendance ni build) : SSIAP 1, SST, EPI 
 
 Formulaire de contact : envoyé via FormSubmit vers contact@vigieo.fr. Au premier envoi, FormSubmit adresse un e-mail d'activation à cette boîte : cliquer sur le lien pour activer le formulaire.
 
-À compléter : n° de déclaration d'activité (commentaire `À COMPLÉTER` dans `mentions-legales.html`).
-
 Mise en ligne : GitHub Pages (branche `main`, dossier racine), domaine https://vigieo.fr (fichier `CNAME`).
