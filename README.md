@@ -7,7 +7,7 @@ Site vitrine statique (HTML/CSS, sans dépendance ni build) : SSIAP 1, SST, EPI 
 - `mentions-legales.html`, `merci.html` (page affichée après envoi du formulaire)
 - `style.css`
 
-Formulaire de contact : envoyé via FormSubmit vers rgformations75@gmail.com. Au premier envoi, FormSubmit adresse un e-mail d'activation à cette boîte : cliquer sur le lien pour activer le formulaire.
+Formulaire de contact : envoyé via FormSubmit vers contact@vigieo.fr. Au premier envoi, FormSubmit adresse un e-mail d'activation à cette boîte : cliquer sur le lien pour activer le formulaire.
 
 À compléter : n° de déclaration d'activité (commentaire `À COMPLÉTER` dans `mentions-legales.html`).
 
