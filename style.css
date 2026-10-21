@@ -418,3 +418,4 @@ tr.total td { font-weight: 700; background: var(--red-50); color: var(--ink); }
   *, *::before, *::after { transition: none !important; }
 }
 a[href^="tel:"] { white-space: nowrap; }
+.qualiopi-note { margin: 10px 0 0; font-size: .78rem; color: #7d8aa0; max-width: 360px; }
