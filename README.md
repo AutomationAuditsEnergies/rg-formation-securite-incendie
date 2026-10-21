@@ -1,4 +1,4 @@
-# Vigieo (RG Formations) – Site formations sécurité incendie
+# Vigieo – Site formations sécurité incendie
 
 Site vitrine statique (HTML/CSS, sans dépendance ni build) : SSIAP 1, SST, EPI et exploitation SSI.
 
